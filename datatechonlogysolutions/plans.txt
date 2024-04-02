@@ -1,0 +1,32 @@
+stakeholders:
+
+1. Health Canada 
+2. Canada Health  
+
+Questions: 
+    1. Trends over time
+    2. Demographic differences
+    3. Geographic differences
+    4. Predictive modeling
+
+insights
+
+Actions
+
+
+Given the dataset, here are some potential questions and insights that stakeholders might be interested in:
+
+1. **Trends over time**: How has the number of people perceiving their health as very good or excellent changed over time? This could help identify overall trends in perceived health.
+
+2. **Demographic differences**: Are there differences in perceived health between different age groups or between sexes? This could help identify demographic groups that may need targeted health interventions.
+
+3. **Geographic differences**: Are there differences in perceived health between different geographic areas? This could help identify areas that may need additional health resources.
+
+4. **Correlations with other indicators**: Is perceived health correlated with other indicators (if available in the dataset)? This could help identify potential factors influencing perceived health.
+
+5. **Predictive modeling**: Can we predict perceived health based on other characteristics? This could help in planning future health strategies.
+
+The specific actions stakeholders might take based on these insights would depend on their roles and objectives. For example, a public health official might use this information to target health promotion campaigns, while a healthcare provider might use it to inform patient care strategies.
+
+
+

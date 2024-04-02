@@ -1,0 +1,6 @@
+Removed columns:
+
+DGUID UOM_ID	SCALAR_FACTOR	SCALAR_ID STATUS	SYMBOL	TERMINATED VECTOR
+
+
+Inconsistent columns using hive queries
