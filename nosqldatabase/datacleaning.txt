@@ -1,0 +1,10 @@
+Removed column names: Release Date, LANG
+
+Data cleaning:
+
+Separate <P> tags as separate columns headers 
+		- The employment outlook 
+		
+	Logic : get the numbers and its heading and add it to the new columns according to the header names
+
+
