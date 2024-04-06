@@ -1,11 +1,6 @@
 Key terms to search in Employment Trends are:
 
-1. Outlook key terms: good ,undertemined, very good, moderate <p> for which NOC code and NOC title
-2. Some Factors <p>
-3. Some key Facts: <p>
-<ul>
-3.1 Approximately 400 people <li
-3.2 mainly work in the following sectors (%) <li
+1. Outlook key terms: good ,undertemined, very good, moderate <p> for which NOC code and NOC titlei
 
 Questions: (2023-2025)
 
@@ -14,7 +9,7 @@ Questions: (2023-2025)
 2. What is the highest and lowest number of people worked in each occupation?
     Histogram or bar chart combination of charts
     Show the distribution curve occupation and no of people realtionships
-3. Which occupation will be in demand till next five years?
+3. Which occupation will be in demand in  next five years?
     2025
 4. Employment outlooks?
     good

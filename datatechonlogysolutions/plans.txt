@@ -9,10 +9,70 @@ Questions:
     3. Geographic differences
     4. Predictive modeling
 
+Data cleaning using hive:
+    1. Remove both sexes
+    2. Remove canada value 
+    3. Remove other columns
+    4. Number of persons 
+    5. Low % of intervsal (cjheck)
+    6. percentage
+    
+
+
 insights
 
 Actions
 
+
+Alternative view(s):
+Perceived health, by age group (13-10-0096-02)
+Frequency: Occasional
+Perceived mental health, by age group (13-10-0096-03)
+Frequency: Occasional
+Perceived life stress, by age group (13-10-0096-04)
+Frequency: Occasional
+Life satisfaction, satisfied or very satisfied, by age group (13-10-0096-05)
+Frequency: Occasional
+Arthritis, by age group (13-10-0096-06)
+Frequency: Occasional
+Diabetes, by age group (13-10-0096-07)
+Frequency: Occasional
+Asthma, by age group (13-10-0096-08)
+Frequency: Occasional
+High blood pressure, by age group (13-10-0096-09)
+Frequency: Occasional
+Smokers, by age group (13-10-0096-10)
+Frequency: Occasional
+Heavy drinking, by age group (13-10-0096-11)
+Frequency: Occasional
+Fruit and vegetable consumption, 5 times or more per day, by age group (13-10-0096-12)
+Frequency: Occasional
+Physical activity, self reported, adult, by age group (13-10-0096-13)
+Frequency: Occasional
+Physical activity, self reported, youth, 12 to 17 (13-10-0096-14)
+Frequency: Occasional
+Sense of belonging to local community, somewhat strong or very strong, by age group (13-10-0096-15)
+Frequency: Occasional
+Has a regular healthcare provider, by age group (13-10-0096-16)
+Frequency: Occasional
+Contact with a medical doctor in the last 12 months, by age group (13-10-0096-17)
+Frequency: Occasional
+Mood disorders, by age group (13-10-0096-18)
+Frequency: Occasional
+Chronic obstructive pulmonary disease (COPD), 35 years and over (13-10-0096-19)
+Frequency: Occasional
+Body mass index, overweight or obese, self-reported, adult, age groups (18 years and older) (13-10-0096-20)
+Frequency: Occasional
+Body mass index, overweight or obese, self reported, youth (12 to 17 years old) (13-10-0096-21)
+Frequency: Occasional
+Exclusive breastfeeding, at least 6 months, by age group (13-10-0096-22)
+Frequency: Occasional
+Current smoker, daily, by age group (13-10-0096-23)
+Frequency: Occasional
+Breast milk feeding initiation, by age group (13-10-0096-24)
+Frequency: Occasional
+Influenza immunization in the past 12 months, by age group (13-10-0096-25)
+Frequency: Occasional
 
 Given the dataset, here are some potential questions and insights that stakeholders might be interested in:
 
