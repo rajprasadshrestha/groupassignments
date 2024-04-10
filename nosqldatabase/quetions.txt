@@ -20,3 +20,16 @@ Questions: (2023-2025)
 
 
 Use of chart to represent the data.
+
+
+
+Plans:
+    Slides:
+    
+    Agile appaorach Sprint Task division : 
+        Git
+        Dataset 2 days - 4hrs
+        Data cleaning and exploarion 3 -4 days  - 4hrs
+        Data visualiziton - 2 days - 5 Histogram
+
+
